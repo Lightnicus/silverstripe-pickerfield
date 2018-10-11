@@ -4,6 +4,7 @@
 /.classpath
 /.buildpath
 /.settings/
+/.idea/
 
 #### General
 .DS_Store
